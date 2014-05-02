@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="686"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="C:\Users\JSalvaG\Documentos\UniMar\Semestre IV Feb-Jun 2014\SIstemas De Informacion Gerencial\ExtinMarSIG\ExtinMarSIG\Imagenes\logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="Documento nuevo 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3803">
+      <stop
+         style="stop-color:#fdfeff;stop-opacity:1;"
+         offset="0"
+         id="stop3805" />
+      <stop
+         style="stop-color:#fdfeff;stop-opacity:0;"
+         offset="1"
+         id="stop3807" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3761"
+       x1="95.642853"
+       y1="92.857162"
+       x2="612.92853"
+       y2="461.42859"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <filter
+       inkscape:collect="always"
+       id="filter3795"
+       x="-0.078202406"
+       width="1.1564048"
+       y="-0.10238548"
+       height="1.204771">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="30.349982"
+         id="feGaussianBlur3797" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3811"
+       x1="-178.35037"
+       y1="886.59381"
+       x2="294.72934"
+       y2="886.59381"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-122.85714"
+     inkscape:cy="124.83912"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <rect
+       style="fill:url(#linearGradient3761);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3795)"
+       id="rect2985"
+       width="542.85809"
+       height="354.28601"
+       x="74.285713"
+       y="74.285713"
+       transform="translate(0,552.36218)"
+       inkscape:export-filename="C:\Users\JSalvaG\Desktop\fomdoExtinMarSIG.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 414.66848,586.01851 c -16.3928,8.65116 -22.80778,28.69826 -14.32793,44.76644 0.50059,0.94856 1.0491,1.85914 1.62797,2.73668 l -26.13377,13.79187 7.52973,14.26786 -30.03434,15.85036 -3.98697,-7.55477 -101.44259,32.85289 36.44068,69.05025 84.37338,-65.19678 -3.00106,-5.68661 28.15592,-14.85904 8.44522,16.00257 c -19.38892,22.76755 -22.70038,59.28951 -5.7989,91.31558 1.00597,1.90618 2.07101,3.77431 3.18041,5.57885 0.49487,1.21542 1.04158,2.42126 1.6733,3.61827 l 100.91472,191.22002 c 7.8843,14.93965 23.4449,22.10245 34.88312,16.06605 l 83.52339,-44.07875 c 11.43822,-6.03643 14.29584,-22.91926 6.41154,-37.85896 L 526.18758,736.68127 c -0.63171,-1.19701 -1.30843,-2.33424 -2.03256,-3.42868 -0.86366,-1.93421 -1.81517,-3.86226 -2.82114,-5.76844 -17.33162,-32.84112 -50.56296,-50.80732 -80.92647,-46.46564 l -6.64676,-12.59472 c 4.81085,-3.58143 10.53421,-7.06907 17.35783,-10.32843 47.91463,-22.88682 78.72887,40.04567 104.22408,33.78995 25.49522,-6.25573 9.46879,-22.98934 9.46879,-22.98934 0,0 -64.32048,-35.62239 -106.88994,-36.03138 6.43734,-9.76432 7.54791,-22.50121 1.78983,-33.41201 -8.47985,-16.06819 -28.64997,-22.08523 -45.04276,-13.43407 z m 5.32498,10.09014 c 10.71213,-5.65323 23.89131,-1.72816 29.4326,8.77184 5.54129,10.50001 1.34438,23.59516 -9.36774,29.2484 -9.53127,5.03004 -21.00652,2.46869 -27.32676,-5.55244 l -0.30336,-0.57483 -0.10265,0.0542 c -0.62372,-0.84493 -1.19523,-1.74259 -1.69983,-2.69876 -5.54129,-10.5 -1.34438,-23.59516 9.36774,-29.24839 z"
+       id="rect3824"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:111.99437714px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#fdfeff;stroke-width:6.4000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-205.38269"
+       y="920.12805"
+       id="text3799"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96618759,-0.25784016,0.25784016,0.96618759,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3801"
+         x="-205.38269"
+         y="920.12805"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:18px;stroke:#fdfeff;stroke-width:6.4000001;stroke-opacity:1;font-family:Gisha;-inkscape-font-specification:Gisha Bold"
+         dx="0">ExtinMar</tspan></text>
+  </g>
+</svg>

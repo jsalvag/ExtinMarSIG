@@ -2,7 +2,7 @@
 
 namespace ExtinMarSIG
 {
-    class C_PERSONA:IEquatable<C_PERSONA>
+    class C_PERSONAS:IEquatable<C_PERSONAS>
     {
         private string
                ci,
@@ -11,7 +11,7 @@ namespace ExtinMarSIG
                dir,
                telf;
 
-        public C_PERSONA(string c, string n, string a, string d, string t)
+        public C_PERSONAS(string c, string n, string a, string d, string t)
         {
             this.ci = c;
             this.nom = n;
@@ -31,7 +31,7 @@ namespace ExtinMarSIG
             return d;
         }
 
-        public bool Equals(C_PERSONA other)
+        public virtual bool Equals(C_PERSONAS other)
         {
             if (other.Datos()[0] == this.ci)
                 return true;

@@ -14,14 +14,14 @@ namespace ExtinMarSIG
         private double
             peso;
 
-        public C_EQUIPOS(string c, string n, string d, string a, string e, string s, double p)
+        public C_EQUIPOS(string c, string n, string d, string a, string e, double p)
         {
             this.cod = c;
             this.nom = n;
             this.desc = d;
             this.agente = a;
             this.estatus = e;
-            this.servico = s;
+            this.servico = "";
             this.peso = p;
         }
 
@@ -43,6 +43,13 @@ namespace ExtinMarSIG
             if (other.Datos()[0] == this.cod)
                 return true;
             return false;
+        }
+
+        public void setDatos(string e, string s, double p)
+        {
+            this.estatus = e;
+            this.servico = s;
+            this.peso = p;
         }
     }
 }

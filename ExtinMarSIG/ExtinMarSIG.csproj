@@ -48,8 +48,8 @@
   <ItemGroup>
     <Compile Include="C_CLIENTES.cs" />
     <Compile Include="C_EQUIPOS.cs" />
-    <Compile Include="C_ORDEN.cs" />
-    <Compile Include="C_PERSONA.cs" />
+    <Compile Include="C_ORDENES.cs" />
+    <Compile Include="C_PERSONAS.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
