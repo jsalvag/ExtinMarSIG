@@ -506,7 +506,7 @@ namespace ExtinMarSIG
 				enTelf_box.Text = d[4];
 
 				foreach (C_EQUIPOS eq in c.equiposClient)
-					if (eq.Datos()[3] != "Entregado")
+                    if (eq.Datos()[3] != "Entregado" && (eq.Datos()[3] == "Listo" || eq.Datos()[3] == "Irrecuperable"))
 						dgv_enListEq.Rows.Add(eq.Datos());
 			}
 			else
@@ -577,5 +577,10 @@ namespace ExtinMarSIG
 				SendKeys.Send("{TAB}");
 			}
 		}
+
+        private void enClr_btn_Click_1(object sender, EventArgs e)
+        {
+            ClrEntregar();
+        }
 	}
 }

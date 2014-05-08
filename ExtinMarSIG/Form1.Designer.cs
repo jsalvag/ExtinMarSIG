@@ -777,6 +777,7 @@
           this.enClr_btn.TabIndex = 40;
           this.enClr_btn.Text = "Limpiar";
           this.enClr_btn.UseVisualStyleBackColor = true;
+          this.enClr_btn.Click += new System.EventHandler(this.enClr_btn_Click_1);
           // 
           // enCod_box
           // 
@@ -1564,6 +1565,7 @@
           // 
           // pan1_regCli
           // 
+          this.pan1_regCli.BackColor = System.Drawing.Color.Transparent;
           this.pan1_regCli.Controls.Add(this.splitContainer1);
           this.pan1_regCli.Controls.Add(this.panel1);
           this.pan1_regCli.Controls.Add(this.rClrCli_btn);
@@ -1804,6 +1806,7 @@
           // 
           // pan2_buscarCli
           // 
+          this.pan2_buscarCli.BackColor = System.Drawing.Color.Transparent;
           this.pan2_buscarCli.Controls.Add(this.dgv_bLista);
           this.pan2_buscarCli.Controls.Add(this.panel3);
           this.pan2_buscarCli.Controls.Add(this.panel2);
@@ -1845,6 +1848,7 @@
           // 
           // pan3_addEquipo
           // 
+          this.pan3_addEquipo.BackColor = System.Drawing.Color.Transparent;
           this.pan3_addEquipo.Controls.Add(this.splitContainer2);
           this.pan3_addEquipo.Controls.Add(this.panel4);
           this.pan3_addEquipo.Location = new System.Drawing.Point(579, 18);
@@ -1895,6 +1899,7 @@
           // 
           // pan4_recibir
           // 
+          this.pan4_recibir.BackColor = System.Drawing.Color.Transparent;
           this.pan4_recibir.Controls.Add(this.splitContainer3);
           this.pan4_recibir.Controls.Add(this.panel5);
           this.pan4_recibir.Controls.Add(this.panel6);
@@ -1964,6 +1969,7 @@
           // 
           // pan5_statEq
           // 
+          this.pan5_statEq.BackColor = System.Drawing.Color.Transparent;
           this.pan5_statEq.Controls.Add(this.panel9);
           this.pan5_statEq.Controls.Add(this.dgv_eListEq);
           this.pan5_statEq.Controls.Add(this.panel8);
@@ -2005,7 +2011,7 @@
           // 
           // pan6_entregar
           // 
-          this.pan6_entregar.BackColor = System.Drawing.SystemColors.Control;
+          this.pan6_entregar.BackColor = System.Drawing.Color.Transparent;
           this.pan6_entregar.Controls.Add(this.panel7);
           this.pan6_entregar.Controls.Add(this.dgv_enListEq);
           this.pan6_entregar.Controls.Add(this.panel10);
@@ -2072,7 +2078,7 @@
           this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
           this.pictureBox1.Location = new System.Drawing.Point(0, 391);
           this.pictureBox1.Name = "pictureBox1";
-          this.pictureBox1.Size = new System.Drawing.Size(120, 82);
+          this.pictureBox1.Size = new System.Drawing.Size(124, 82);
           this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
           this.pictureBox1.TabIndex = 7;
           this.pictureBox1.TabStop = false;
@@ -2157,7 +2163,8 @@
 
 	  #endregion
 
-	  private System.Windows.Forms.MenuStrip menuStrip1;
+      private System.Windows.Forms.MenuStrip menuStrip1;
+      private System.Windows.Forms.PictureBox pictureBox1;
 	  private System.Windows.Forms.ToolStripMenuItem mArchivo;
 	  private System.Windows.Forms.ToolStripMenuItem smSalir;
 	  private System.Windows.Forms.ToolStripMenuItem mClientes;
@@ -2341,7 +2348,6 @@
       private System.Windows.Forms.Label label10;
       private System.Windows.Forms.TextBox rCod_box;
       private System.Windows.Forms.Label label11;
-      private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
